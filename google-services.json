@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12103130614",
+    "firebase_url": "https://serv-lynk.firebaseio.com",
+    "project_id": "serv-lynk",
+    "storage_bucket": "serv-lynk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12103130614:android:4e66706c380cf887",
+        "android_client_info": {
+          "package_name": "com.justin.servlynk2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12103130614-tll3kp71kf8t5et3p8rclq69uqcmpvef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5F8u2wt0nKCcKq1Vpvfk92BTiz8dM35E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

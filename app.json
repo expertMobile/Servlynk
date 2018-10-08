@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "servlynk",
+    "slug": "servlynk",
+    "privacy": "unlisted",
+    "android": {
+     "package": "com.justin.servlynk2",
+     "googleServicesFile": "./google-services.json"
+   }
+  }
+}
